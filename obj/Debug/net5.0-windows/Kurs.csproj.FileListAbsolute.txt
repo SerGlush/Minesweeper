@@ -1,0 +1,16 @@
+C:\Users\shoka\gitproj\Minesweeper\Kurs\bin\Debug\net5.0-windows\Kurs.exe
+C:\Users\shoka\gitproj\Minesweeper\Kurs\bin\Debug\net5.0-windows\Kurs.deps.json
+C:\Users\shoka\gitproj\Minesweeper\Kurs\bin\Debug\net5.0-windows\Kurs.runtimeconfig.json
+C:\Users\shoka\gitproj\Minesweeper\Kurs\bin\Debug\net5.0-windows\Kurs.runtimeconfig.dev.json
+C:\Users\shoka\gitproj\Minesweeper\Kurs\bin\Debug\net5.0-windows\Kurs.dll
+C:\Users\shoka\gitproj\Minesweeper\Kurs\bin\Debug\net5.0-windows\ref\Kurs.dll
+C:\Users\shoka\gitproj\Minesweeper\Kurs\bin\Debug\net5.0-windows\Kurs.pdb
+C:\Users\shoka\gitproj\Minesweeper\Kurs\obj\Debug\net5.0-windows\Kurs.csproj.AssemblyReference.cache
+C:\Users\shoka\gitproj\Minesweeper\Kurs\obj\Debug\net5.0-windows\Kurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoka\gitproj\Minesweeper\Kurs\obj\Debug\net5.0-windows\Kurs.AssemblyInfoInputs.cache
+C:\Users\shoka\gitproj\Minesweeper\Kurs\obj\Debug\net5.0-windows\Kurs.AssemblyInfo.cs
+C:\Users\shoka\gitproj\Minesweeper\Kurs\obj\Debug\net5.0-windows\Kurs.csproj.CoreCompileInputs.cache
+C:\Users\shoka\gitproj\Minesweeper\Kurs\obj\Debug\net5.0-windows\Kurs.dll
+C:\Users\shoka\gitproj\Minesweeper\Kurs\obj\Debug\net5.0-windows\ref\Kurs.dll
+C:\Users\shoka\gitproj\Minesweeper\Kurs\obj\Debug\net5.0-windows\Kurs.pdb
+C:\Users\shoka\gitproj\Minesweeper\Kurs\obj\Debug\net5.0-windows\Kurs.genruntimeconfig.cache
